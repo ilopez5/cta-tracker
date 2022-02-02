@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.17
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CtaTracker", "CtaTracker\CtaTracker.csproj", "{306032BC-FCD2-4952-BEAE-70171A7BC731}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{306032BC-FCD2-4952-BEAE-70171A7BC731}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{306032BC-FCD2-4952-BEAE-70171A7BC731}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{306032BC-FCD2-4952-BEAE-70171A7BC731}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{306032BC-FCD2-4952-BEAE-70171A7BC731}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7A55A91-8B88-48D0-8550-A5798F9CD2D5}
+	EndGlobalSection
+EndGlobal
